@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Windows_logo" data-name="Windows logo" transform="translate(-408 -677)">
+    <path id="Rectangle_112" data-name="Rectangle 112" d="M2,0H12a0,0,0,0,1,0,0V12a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(408 677)" fill="#fff"/>
+    <path id="Rectangle_113" data-name="Rectangle 113" d="M0,0H10a2,2,0,0,1,2,2V12a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(421 677)" fill="#fff"/>
+    <path id="Rectangle_114" data-name="Rectangle 114" d="M0,0H12a0,0,0,0,1,0,0V10a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(421 690)" fill="#fff"/>
+    <path id="Rectangle_115" data-name="Rectangle 115" d="M0,0H12a0,0,0,0,1,0,0V12a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="translate(408 690)" fill="#fff"/>
+  </g>
+</svg>

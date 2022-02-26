@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="16.5 16.5 108 108">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffaf47"/>
+      <stop offset="1" stop-color="#ff5454"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.484" y1="0.5" x2="0.481" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9777"/>
+      <stop offset="1" stop-color="#ffddc2"/>
+    </linearGradient>
+    <filter id="Ellipse_4" x="0" y="0" width="140" height="141" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.294" x2="0.378" y2="0.977" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8154ff"/>
+      <stop offset="1" stop-color="#4300ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_42" data-name="Path 42" d="M106.365,257.5A53.183,53.183,0,0,1,0,257.5Z" transform="translate(0 -257.5)" fill="#ff521b"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.483" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6e00ff"/>
+      <stop offset="1" stop-color="#a1a7ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_11" data-name="Group 11" transform="translate(-154 -165)">
+    <g id="Group_6" data-name="Group 6" transform="translate(-532 -36)" style="isolation: isolate">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="53" cy="53" r="53" transform="translate(703 218)" fill="url(#radial-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 686, 201)" filter="url(#Ellipse_4)">
+        <ellipse id="Ellipse_4-2" data-name="Ellipse 4" cx="25" cy="25.5" rx="25" ry="25.5" transform="translate(45 45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Path_40" data-name="Path 40" d="M106,53A53,53,0,0,1,0,53c.008-.029,3.153,0,53,0C102.419,53,106,52.966,106,53Z" transform="translate(171 182)" fill="url(#linear-gradient-2)"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(170.635 235)" clip-path="url(#clip-path)">
+      <path id="Path_41" data-name="Path 41" d="M898.147,586.894c-.007,0-29.576.621-32.55,4.049s29.052,2.574,23.333,7.3-43.207,5.237-48.039,12.449,8.73,26.08,28.289,28.713,32.532-4.761,37.992-7.7,17.143-11.922,22.2-21.01,2.731-23.8,2.731-23.8S898.153,586.892,898.147,586.894Z" transform="translate(-825.612 -586.964)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>
