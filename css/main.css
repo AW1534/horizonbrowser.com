@@ -211,6 +211,12 @@ a:hover {
     margin: 10px 40px;
     height: 150px;
     width: clamp(300px, 20%, 600px);
+    transition: transform .5s;
+    cursor: pointer;
+}
+
+.contributor-box:hover {
+    transform: translateY(-5px)
 }
 
 .contributor-buttons-box {
