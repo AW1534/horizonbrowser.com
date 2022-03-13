@@ -347,6 +347,7 @@ a:hover {
     padding: 12px 32px;
     border-radius: 100px;
     border: 0;
+    text-decoration: none;
     color: var(--light-0);
     background: var(--orange-200);
     font-weight: 600;
@@ -370,6 +371,11 @@ a:hover {
     background: var(--light-200);
     background: linear-gradient(110deg, var(--light-200) 0%, var(--light-100) 100%);
 }
+
+.button:hover {
+    color: var(--light-0);
+}
+
 .button:not(:disabled):hover {
     transition: all 200ms ease;
     transform: scale(1.1);
